@@ -4,7 +4,8 @@
   "description": "University Web Lab Homework 3",
   "main": "main.js",
   "type": "module",
-  "scripts": {
+  "scripts": 
+  {
     "start": "node main.js"
   },
   "author": "",

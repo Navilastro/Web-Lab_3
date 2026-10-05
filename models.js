@@ -1,8 +1,10 @@
 export class Student {
-  constructor(name, id) {
+  constructor(name, id) 
+  {
     this.name = name;
     
-    Object.defineProperty(this, 'id', {
+    Object.defineProperty(this, 'id', 
+    {
       value: id,
       writable: false,
       configurable: false,

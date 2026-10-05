@@ -1,10 +1,14 @@
 /**
  * @returns {Promise<Array>}
  */
-export const fetchStudents = async () => {
-  return new Promise((resolve) => {
-    setTimeout(() => {
-      const mockData = [
+export const fetchStudents = async () => 
+    {
+  return new Promise((resolve) => 
+    {
+    setTimeout(() => 
+    {
+      const mockData = 
+      [
         { 
           name: "Oya Pamukçuoğlu", 
           id: "S001", 
