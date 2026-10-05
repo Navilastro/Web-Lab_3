@@ -1,0 +1,12 @@
+{
+  "name": "university-web-lab3",
+  "version": "0.0.1",
+  "description": "University Web Lab Homework 3",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
